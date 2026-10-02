@@ -1,1 +1,4 @@
 theme = TokyoNight Moon
+cursor-style = block
+shell-integration-features = no-cursor
+
